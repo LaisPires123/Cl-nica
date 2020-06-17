@@ -1,2 +1,2 @@
-# Cl-nica
+# Clínica
 Projeto Facade
